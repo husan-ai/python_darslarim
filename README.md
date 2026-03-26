@@ -1,28 +1,28 @@
-# Python darslarim (python_darslarim)
+# Python Lessons (python_darslarim)
 
-Ushbu repositoryda mening Python dasturlash tilini o‘rganish jarayonim davomida yozilgan amaliy mashqlar va misollar jamlangan.
+This repository contains my Python learning journey, including practical exercises and examples.
 
-## 📚 Loyiha haqida
-Bu loyiha boshlang‘ich va o‘rta darajadagi Python tushunchalarini o‘z ichiga oladi. Har bir fayl orqali turli mavzular bo‘yicha bilimlar mustahkamlangan.
+## About
+This project includes beginner to intermediate Python lessons covering core programming concepts.
 
-## 🧠 Qamrab olingan mavzular
-- O‘zgaruvchilar va ma’lumot turlari
-- Shart operatorlari va sikllar (if, for, while)
-- Funksiyalar
-- List, tuple va dictionary
-- Fayllar bilan ishlash
+## Topics Covered
+- Variables and Data Types
+- Conditions and Loops
+- Functions
+- Lists, Tuples, Dictionaries
+- File Handling
 
-## 💻 Texnologiyalar
+## 💻 Technologies
 - Python
 
-## 🎯 Maqsad
-Ushbu repositoryning asosiy maqsadi Python asoslarini mustahkamlash va keyinchalik Machine Learning hamda Sun’iy intellekt yo‘nalishida ishlash uchun poydevor yaratishdir.
+## Purpose
+The goal of this repository is to build a strong Python foundation for future work in Machine Learning and AI.
 
-## 🚀 Kelajak rejalari
-- Murakkabroq mavzularni qo‘shish
-- Kichik loyihalar (mini-projects) yaratish
-- Kod strukturasini yaxshilash
+## Future Plans
+- Add more advanced topics
+- Include mini projects
+- Improve code structure
 
-## 📌 Muallif
+## Author
 Muhammadiyev Husan  
 GitHub: https://github.com/husan-ai
